@@ -2,7 +2,7 @@
 
 Welcome to the repository where I track and link all completed assignments and case studies.
 
-## 🔗 Linked Assignment Files from Original Repository
+## 🔗 3M Assignment 1.1 Files
 
 Assignemnt 1:
 - [assignment.md](https://github.com/Hanafi555/3m-data-assignment-1.1/blob/main/assignment.md)
