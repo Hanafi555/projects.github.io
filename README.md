@@ -37,7 +37,8 @@ Assignment 2:
 👉 Visit the full repo: [3m-data-assignment-1.2](https://github.com/Hanafi555/3m-data-assignment-1.2)
 
 ---
-Project on Citibike:
+Project on Citibike dataset (US)
+## 🔗 Citibike full case study 
 
 👉 Visit the full repo:[Citibike Project](https://github.com/apache088/ntu-sctp-dsai1f-project-team6/tree/hanafi_branch)
 
