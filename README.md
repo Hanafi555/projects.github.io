@@ -39,7 +39,7 @@ Assignment 2:
 ---
 Project on Citibike:
 
-- https://github.com/apache088/ntu-sctp-dsai1f-project-team6/tree/hanafi_branch
+-[Citibike_Project](https://github.com/apache088/ntu-sctp-dsai1f-project-team6/tree/hanafi_branch)
 
 Citibike Trip Data Transformation
 Feature Engineering
