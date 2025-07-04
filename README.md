@@ -2,38 +2,32 @@
 
 Welcome to the repository where I track and link all completed assignments and case studies.
 
-## 🔗 3M Assignment 1.1 Files
+👉 🔗 Assignment 1 Files
+
+- [Assignment 1.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%20_Casestudy/Assignment%201.md)
+- [Casestudy 1.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%20_Casestudy/Casestudy_Videogame.md)
+
+
+👉 🔗 Assignment 2 Files
 
 Assignemnt 1:
-- [assignment.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%20_Casestudy/Data%20Assignment%201.1.md)
+- [assignment.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%20_Casestudy/Assignment%201.md)
 - [case_study.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%20_Casestudy/Casestudy_Videogame.md)
-- [README.md](https://github.com/Hanafi555/3m-data-assignment-1.1/blob/main/README.md)
-
-## 📂 Full Assignment Repository
 
 ---
 Assignment 2:
-## 🔗 3M Assignment 1.2 Files
 
-- [assignment.md](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/assignment.md)
-- [case_study.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment2_Casestudy/Casestudy2_COVID-19.md)
-- [README.md](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/README.md)
+- [Assignment 2.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/Assigment%202.md)
+- [Casestudy 2.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment2_Casestudy/Casestudy2_COVID-19.md)
 
 ### 📊 Visual Outputs (Graphs & Images)
-- [Age Dist and Death Rate](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/Age%20Dist%20and%20Death%20Rate.png)
-- [B_Norm Hist-1](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment2_Casestudy/image-1.png)
-- [Bar Plot-2](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment2_Casestudy/image-2.png)
-- [Box Plot-3](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/Box%20Plot-3.png)
+- [B_Norm Hist-1](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/image-1.png)
+- [Bar Plot-2](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/image-2.png)
+- [Box Plot-3](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/image-3.png)
+- [Age Distribution & Death Rate](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/image-4.png)
+- [Death Rate Among COVID-Positive](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/image-5.png)
 
-### 🖼 Additional Images
-- [image-1](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/image-1.png)
-- [image-2](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/image-2.png)
-- [image-3](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/image-3.png)
-- [image](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/image.png)
-
-👉 Visit the full repo: [3m-data-assignment-1.2](https://github.com/Hanafi555/3m-data-assignment-1.2)
-
----
+---SSSSSSSSSSS
 Project on Citibike dataset (US)
 ## 🔗 Citibike Full Case Study 
 
@@ -78,3 +72,4 @@ dbt transformation
 Performs all the data transformation steps configured in dbt project.
 Implementation:
 Uses dbt CLI to run dbt build.
+
