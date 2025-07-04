@@ -84,7 +84,7 @@ dft = pd.DataFrame({
     "str_col": ["a", "b", "c"],         
     "bool_col": [True, False, True] 
     result = dft.select_dtypes(include=["number"], exclude=["float"])
-
+    })
 answer:   
    a
 0  1
@@ -345,6 +345,7 @@ plt.ylabel("Probability Density")
 plt.show()
 
 ```
+![alt text](image-1.png)
 
 ### Question 13
 
@@ -371,6 +372,7 @@ plt.ylabel("Average Tip")
 
 plt.show()
 ```
+![alt text](image-4.png)
 
 ### Question 14
 
@@ -393,4 +395,5 @@ plt.ylabel("Total Bill ($)")
 
 plt.show()
 ```
+![alt text](image-5.png)
 ## Submission
