@@ -1,0 +1,29 @@
+version: 1
+default_environment: dev
+project_id: 395f0fda-5760-49ba-ad3f-ddeaefb865be
+environments:
+- name: dev
+- name: staging
+- name: prod
+plugins:
+  extractors:
+  - name: tap-duckdb
+    variant: meltanolabs
+    pip_url: git+https://github.com/MeltanoLabs/tap-duckdb.git
+    config:
+      flattening_enabled: true
+      flattening_max_depth: 1
+      path: /home/hanafi/ntu-sctp-dsai1f-project-team6/db/JC-202505-citibike-tripdata.csv
+  loaders:
+  - name: target-bigquery
+    variant: z3z1ma
+    pip_url: git+https://github.com/z3z1ma/target-bigquery.git
+    config:
+      project: forward-garden-461903-m9
+      dataset: citibike
+      credentials_path: 
+        /home/hanafi/5m-data-2.6-data-pipelines-orchestration/meltano-ingestion/forward-garden-461903-m9-863379912db1.json
+      method: batch_job
+      denormalized: true
+      flattening_enabled: true
+      flattening_max_depth: 1
