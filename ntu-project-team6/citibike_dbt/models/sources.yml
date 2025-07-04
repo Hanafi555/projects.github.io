@@ -1,8 +1,0 @@
-version: 2
-
-sources:
-  - name: citibike
-    schema: citibike
-    tables:
-      - name: trips
-        identifier: JC_202505_citibike_tripdata

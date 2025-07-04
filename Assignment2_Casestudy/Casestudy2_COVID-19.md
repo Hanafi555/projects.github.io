@@ -411,7 +411,7 @@ ax.legend(handles1 + handles2, labels1 + labels2, loc='upper right')
 plt.tight_layout()
 plt.show()
 ```
-![alt text](image-1.png)
+![alt text](image-3.png)
 Findings:
 ```text
 1. Younger Age Groups Had More Cases:
