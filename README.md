@@ -16,13 +16,13 @@ Assignment 2:
 ## 🔗 3M Assignment 1.2 Files
 
 - [assignment.md](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/assignment.md)
-- [case_study.md](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/case_study.md)
+- [case_study.md](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment2_Casestudy/Casestudy2_COVID-19.md)
 - [README.md](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/README.md)
 
 ### 📊 Visual Outputs (Graphs & Images)
 - [Age Dist and Death Rate](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/Age%20Dist%20and%20Death%20Rate.png)
-- [B_Norm Hist-1](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/B_Norm%20Hist-1.png)
-- [Bar Plot-2](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/Bar%20Plot-2.png)
+- [B_Norm Hist-1](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment2_Casestudy/image-1.png)
+- [Bar Plot-2](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment2_Casestudy/image-2.png)
 - [Box Plot-3](https://github.com/Hanafi555/3m-data-assignment-1.2/blob/main/Box%20Plot-3.png)
 
 ### 🖼 Additional Images
