@@ -27,7 +27,13 @@ Assignment 2:
 - [Age Distribution & Death Rate](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/image-4.png)
 - [Death Rate Among COVID-Positive](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%202_Casestudy/image-5.png)
 
----SSSSSSSSSSS
+
+Assignment 3:
+- [Supervised Learning](https://github.com/Hanafi555/projects.github.io/blob/main/Assignment%203_Casestudy/Supervised_learning.md)
+- [Unsupervised Learning](https://github.com/Hanafi555/5m-data-3.5-unsupervised-learning/blob/main/assignment.md)
+- [Timeseries & Forecasting](https://github.com/Hanafi555/5m-data-3.6-time-series-forecasting/blob/main/assignment.md)
+
+
 Project on Citibike dataset (US)
 ## 🔗 Citibike Full Case Study 
 
