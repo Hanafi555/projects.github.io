@@ -79,3 +79,17 @@ Performs all the data transformation steps configured in dbt project.
 Implementation:
 Uses dbt CLI to run dbt build.
 
+
+## 🏥 Singapore Public Healthcare Performance Dashboard
+
+End-to-end analytics pipeline using **Python** (pandas) and **Power BI** to analyse Singapore's public healthcare performance from 1987 to present, built on open data from `data.gov.sg`.
+
+👉 Visit the full repo: [SG Healthcare Dashboard](https://github.com/Hanafi555/sg-healthcare-dashboard)
+
+**What it does:**
+- Fetches MOH / SingStat datasets directly from data.gov.sg APIs (no manual downloads)
+- Validates data for nulls, range, and consistency with peer-reviewable checks
+- Cleans and transforms with pandas into analytics-ready CSVs
+- Visualises outcomes in a 4-page interactive Power BI dashboard
+
+**Tech:** Python · pandas · Jupyter · Power BI · data.gov.sg API
